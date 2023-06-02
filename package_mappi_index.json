@@ -12,7 +12,8 @@
         {
 	  "name": "mappi32",
           "category": "Mappi32", 
-          "url": "https://github.com/KMTech-id/Mappi32/releases/download/v1.0.7/esp32-v1.0.7.zip", 
+          "url": "https://github.com/KMTech-id/Mappi32/releases/download/v1.0.7/esp32-v1.0.7.zip",
+	  "checksum": "SHA-256:80ECC7F3BA67A6F10F1BEA8153B7F9526038BF3CFA8165D4DFAC0166D4293805",
           "version": "1.0.5", 
           "architecture": "esp32", 
           "archiveFileName": "Mappi32-1.0.5.zip", 
